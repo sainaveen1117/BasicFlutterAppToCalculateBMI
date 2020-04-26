@@ -1,4 +1,4 @@
-# demo2
+# Basic Flutter Application to Calculate BMI
 
 A new Flutter application.
 
